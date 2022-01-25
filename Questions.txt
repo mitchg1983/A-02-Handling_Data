@@ -1,0 +1,7 @@
+Explain what the ".map" properties of arrays does.
+
+Explain what the ".reduce" properties of arrays does.
+
+How is ".map" different from reduce?
+
+What are "switch" statements?
