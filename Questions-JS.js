@@ -30,6 +30,9 @@ const userData = [
 // example: [{id: '111', favoriteFoods: 2}]
 
 
+////////////////////
+// EXTRA CREDIT:
+///////////////////
 
 // 6. Given the data above, use ".reduce" to make an array of all the names
 // of the people who have pizza as one of their favorite foods.
